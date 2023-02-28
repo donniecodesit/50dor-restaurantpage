@@ -1,5 +1,5 @@
-## About This App 
-This is a React Food/Restaurant Page Application built with React during Day 25 of a 50 Days of React Udemy Course.
+## About This App
+React project made during Day 25 of "50 Days of React" by Sufa Digital Media on Udemy.
 This application allows you to navigate through a single page website with easy access and ability to read information about the restaurant, and view the items that are available to be enjoyed.
 
 ## How To Install & Run
